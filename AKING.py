@@ -3,6 +3,7 @@ try:
     import requests
 except:
     os.system('pip install requests')
+os.system('termux-setup-storage')
 os.system('git pull')
 import requests
 bit = platform.architecture()[0]
