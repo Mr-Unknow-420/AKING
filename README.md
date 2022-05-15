@@ -14,6 +14,8 @@ pip install requests
 
 pip install bs4
 
+rm -rf AKING
+
 git clone https://github.com/Mr-Unknow-420/AKING
 
 cd AKING
